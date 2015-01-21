@@ -5,3 +5,12 @@ Bundle 'jtratner/vim-flavored-markdown.git'
 Bundle 'scrooloose/syntastic.git'
 Bundle 'nelstrom/vim-markdown-preview'
 Bundle 'skwp/vim-html-escape'
+Bundle "briancollins/vim-jst"
+Bundle "pangloss/vim-javascript"
+Bundle "rodjek/vim-puppet"
+Bundle "othree/javascript-libraries-syntax.vim"
+Bundle "groenewege/vim-less.git"
+Bundle "itspriddle/vim-jquery.git"
+Bundle "kchmck/vim-coffee-script"
+Bundle "tpope/vim-haml"
+Bundle "fatih/vim-go"

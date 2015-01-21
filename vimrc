@@ -111,3 +111,5 @@ set smartcase       " ...unless we type a capital
 
 " ================ Custom Settings ========================
 so ~/.yadr/vim/settings.vim
+
+Plugin 'nsf/gocode', {'rtp': 'vim/'}

@@ -190,3 +190,11 @@ alias dbmu='spring rake db:migrate:up'
 
 # Homebrew
 alias brewu='brew update && brew upgrade && brew cleanup && brew prune && brew doctor'
+
+# My Alias
+alias ber="bundle exec rake"
+alias pag="ps ax | grep"
+alias hig="history | grep"
+alias cdp="cd && cd ~/Project/ruby/piktodev"
+alias cdo="cd && cd ~/Project/ruby/pikto-other"
+alias blg="bundle list | grep"
